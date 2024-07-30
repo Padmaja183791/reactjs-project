@@ -1,0 +1,26 @@
+.nav-link{
+  
+  color: black;
+  background-color:rgb(86, 182, 182);
+font-size: 18px;
+  font-weight: bold;
+  transition: 0.6s ease;
+  text-shadow: 1px 1px 1px black;
+  
+ 
+  }
+.nav-link:hover{
+  background-color: grey;
+  color: blanchedalmond;
+  border-radius: 5px;
+ padding-right: 2%; 
+}
+.dropdown-menu{
+  text-decoration: none;
+  color: beige;
+}
+.dropdown-menu link{
+  text-decoration: none;
+  color: black;
+  
+}
